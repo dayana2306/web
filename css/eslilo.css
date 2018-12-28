@@ -1,0 +1,24 @@
+.jumbotron{background-image:url('../images/v.jpg');
+background-size: cover;
+background-attachment: fixed;
+min-height:600px;
+}
+.foto{
+  width:200px;
+  height: 200px;
+}
+.fifi{
+  color:white
+  font-size: 30px;
+  font-family:lobster;
+}
+.what{color:white}
+.row{color:white}
+.pixi{
+  font-size: 30px;
+  font-family:fantasy;
+}
+.tfyf{
+  color:white;
+}
+.navbar-toggler{color: pink};
